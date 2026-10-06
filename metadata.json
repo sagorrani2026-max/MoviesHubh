@@ -1,0 +1,6 @@
+{
+  "name": "MoviesHub — Cinema & Series Portal",
+  "description": "Multi-language movie and web series portal featuring Bangla, Hindi, English, Tamil, Telugu, and Turkish releases with AI metadata extraction, stealth admin dashboard, live analytics, Adsterra monetization slots, and Blogspot XML/HTML theme generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
